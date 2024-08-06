@@ -1,9 +1,45 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="第 1 页" id="Odrx4Kr8xY8ip96cSOr-">
-    <mxGraphModel>
+    <mxGraphModel dx="3275" dy="1663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="l7MPk-P6-Hgg7GQJggc2-2" value="知识库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="280" y="120" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l7MPk-P6-Hgg7GQJggc2-3" value="前台" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="40" width="160" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="l7MPk-P6-Hgg7GQJggc2-4" value="工作台" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l7MPk-P6-Hgg7GQJggc2-6" value="知识库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="160" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l7MPk-P6-Hgg7GQJggc2-7" value="后台" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="320" width="160" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="l7MPk-P6-Hgg7GQJggc2-8" value="知识库管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="320" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l7MPk-P6-Hgg7GQJggc2-9" value="编号规则" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="440" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l7MPk-P6-Hgg7GQJggc2-10" value="知识模板" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="560" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l7MPk-P6-Hgg7GQJggc2-11" value="内容管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="680" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l7MPk-P6-Hgg7GQJggc2-12" value="纠错记录" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="800" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l7MPk-P6-Hgg7GQJggc2-13" value="回收站" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="920" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l7MPk-P6-Hgg7GQJggc2-14" value="应用配置" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="1040" width="160" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
