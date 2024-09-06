@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
   <diagram name="第 1 页" id="bwR9JTRVAiqgOtGZidA7">
-    <mxGraphModel dx="4565" dy="6625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7304" dy="8495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -119,8 +119,8 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="强控" tags="主要旅程线" id="euEUB5nnOEsbET94l9YE-45">
-          <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3399FF;strokeWidth=6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=#2b9dff;labelBackgroundColor=default;startFill=1;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="euEUB5nnOEsbET94l9YE-38" target="euEUB5nnOEsbET94l9YE-47">
-            <mxGeometry x="0.7195" y="-10" relative="1" as="geometry">
+          <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3399FF;strokeWidth=6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=#2b9dff;labelBackgroundColor=default;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="euEUB5nnOEsbET94l9YE-38" target="euEUB5nnOEsbET94l9YE-116">
+            <mxGeometry x="0.8462" relative="1" as="geometry">
               <mxPoint as="offset" />
             </mxGeometry>
           </mxCell>
@@ -264,8 +264,8 @@
           </mxCell>
         </UserObject>
         <UserObject label="弱控" tags="主要旅程线" id="euEUB5nnOEsbET94l9YE-81">
-          <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3399FF;strokeWidth=6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=#2b9dff;labelBackgroundColor=default;startFill=1;endArrow=classic;endFill=1;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="euEUB5nnOEsbET94l9YE-38" target="euEUB5nnOEsbET94l9YE-79">
-            <mxGeometry x="0.7753" relative="1" as="geometry">
+          <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3399FF;strokeWidth=6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=#2b9dff;labelBackgroundColor=default;startFill=1;endArrow=classic;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="euEUB5nnOEsbET94l9YE-38" target="euEUB5nnOEsbET94l9YE-79">
+            <mxGeometry x="0.4674" relative="1" as="geometry">
               <mxPoint x="930" y="-2860" as="sourcePoint" />
               <mxPoint x="1800" y="-2520" as="targetPoint" />
               <mxPoint as="offset" />
@@ -288,7 +288,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="euEUB5nnOEsbET94l9YE-101" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=default;labelBackgroundColor=default;startFill=1;endArrow=classic;endFill=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="euEUB5nnOEsbET94l9YE-85" target="euEUB5nnOEsbET94l9YE-99">
+        <mxCell id="euEUB5nnOEsbET94l9YE-101" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=default;labelBackgroundColor=default;startFill=1;endArrow=classic;endFill=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="euEUB5nnOEsbET94l9YE-85" target="euEUB5nnOEsbET94l9YE-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="euEUB5nnOEsbET94l9YE-105" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=default;labelBackgroundColor=default;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="euEUB5nnOEsbET94l9YE-85" target="euEUB5nnOEsbET94l9YE-90">
@@ -342,19 +342,19 @@
         <mxCell id="euEUB5nnOEsbET94l9YE-110" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=default;labelBackgroundColor=default;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="euEUB5nnOEsbET94l9YE-99" target="euEUB5nnOEsbET94l9YE-109">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3320" y="-2140" />
-              <mxPoint x="3320" y="-2140" />
+              <mxPoint x="3320" y="-2260" />
+              <mxPoint x="3320" y="-2260" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="代用户处理" tags="旅程场景" id="euEUB5nnOEsbET94l9YE-99">
+        <UserObject label="待用户处理" tags="旅程场景" id="euEUB5nnOEsbET94l9YE-99">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;" vertex="1" parent="1">
-            <mxGeometry x="3050" y="-2180" width="240" height="80" as="geometry" />
+            <mxGeometry x="3050" y="-2300" width="240" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="已处理" tags="旅程场景" id="euEUB5nnOEsbET94l9YE-102">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;" vertex="1" parent="1">
-            <mxGeometry x="3720" y="-2180" width="240" height="80" as="geometry" />
+            <mxGeometry x="3720" y="-2300" width="240" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="euEUB5nnOEsbET94l9YE-111" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=default;labelBackgroundColor=default;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="euEUB5nnOEsbET94l9YE-109" target="euEUB5nnOEsbET94l9YE-102">
@@ -362,12 +362,20 @@
         </mxCell>
         <UserObject label="处理" tags="用户操作" id="euEUB5nnOEsbET94l9YE-109">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=#004C99;fillColor=#dae8fc;" vertex="1" parent="1">
-            <mxGeometry x="3390" y="-2180" width="240" height="80" as="geometry" />
+            <mxGeometry x="3390" y="-2300" width="240" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="无影响" tags="旅程场景" id="euEUB5nnOEsbET94l9YE-114">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;strokeColor=none;" vertex="1" parent="1">
             <mxGeometry x="680" y="-2710" width="240" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="euEUB5nnOEsbET94l9YE-117" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3399FF;strokeWidth=6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=#2b9dff;labelBackgroundColor=default;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="euEUB5nnOEsbET94l9YE-116" target="euEUB5nnOEsbET94l9YE-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="页面关闭&lt;div&gt;（若配置）&lt;/div&gt;" tags="旅程场景" id="euEUB5nnOEsbET94l9YE-116">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;strokeColor=#000000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=#999999;fillColor=none;dashed=1;" vertex="1" parent="1">
+            <mxGeometry x="1680" y="-2710" width="240" height="80" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
